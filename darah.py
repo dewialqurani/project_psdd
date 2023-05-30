@@ -28,7 +28,7 @@ with tab1:
     
     st.write('Dalam tubuh orang dewasa, kira – kira 4 sampai 5 liter darah yang beredar terus - menerus melalui jaringan yang rumit mulai dari pembuluh darah, didorong oleh kontraksi kuat dari detak jantung. Setelah darah bergerak menjauh dari paru – paru dan jantung, melewati arteri besar dan mengalir ke jaringan yang sempit dan lebih kompleks dari pembuluh – pembuluh kecil, darah berinteraksi dengan sel – sel individual dari jaringan. Pada tingkat ini, fungsi utamanya adalah untuk memberi makan sel – sel tersebut, memberi mereka nutrisi, termasuk oksigen yang merupakan unsur paling dasar yang diperlukan untuk keberlangsungan hidup manusia. Dalam pertukaran nutrisi bermanfaat ini, darah menggambil dan membawa pergi limbah seluler seperti karbon dioksida yang pada akhirnya akan dikeluarkan dari tubuh ketika darah mengalir kembali ke paru – paru. ')
 
-    df = pd.read_csv("https://raw.githubusercontent.com/dewialqurani/project_psd/main/data_darah.csv")
+    df = pd.read_csv("https://raw.githubusercontent.com/dewialqurani/project_kk/main/kelompok8.csv")
     st.write("Dataset Donor Darah : ")
     st.write(df)
 
